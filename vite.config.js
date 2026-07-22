@@ -5,6 +5,5 @@ export default defineConfig({
   plugins: [react()],
   base: '/planejamento360/'
 })
-``
 
 
