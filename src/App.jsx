@@ -317,9 +317,9 @@ export default function App() {
         <header className="hero">
           <div className="hero-content">
             <div className="hero-copy">
-              <div className="badge"><Lock size={16} /> Offline-first, sem servidor e sem mensalidade inicial</div>
-              <h1>Finanças 360 Local</h1>
-              <p>Controle profissional para DRE pessoal, fluxo de caixa, orçamento familiar e balanço patrimonial. Rode no seu PC, publique como site estático gratuito ou evolua para uma versão web com login quando fizer sentido.</p>
+              <div className="badge"><Lock size={16} /> Seguro</div>
+              <h1>Planejamento 360</h1>
+              <p>Centralize orçamento, patrimônio, investimentos, metas financeiras e planejamento de vida em uma única plataforma.</p>
             </div>
             <div className="profile-box">
               <label>Família ou perfil</label>
