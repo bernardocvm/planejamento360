@@ -1,0 +1,4 @@
+data;descricao;valor;conta;categoria;tipo
+2026-07-10;Supermercado BH;-350,40;Cartão XP;Alimentação;despesa
+2026-07-15;Receita familiar;22000,00;Conta Corrente;Receita;receita
+2026-07-20;Aporte CDB;-2000,00;XP;Investimentos;investimento
